@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M2
 # IAPR-2- Module 2 - FoC
 ## 3. Implementation of programs using conditional statements.
 ## 4. Implementation of programs using various control statements.
@@ -55,8 +55,10 @@
   Else, print Grade F.
 ### Step 11:
   Stop
-# Program:
-# Output:
+# Program:<img width="799" height="626" alt="image" src="https://github.com/user-attachments/assets/b5bab615-1623-4ba3-ac75-e54a0f5ab528" />
+
+# Output:<img width="812" height="346" alt="image" src="https://github.com/user-attachments/assets/3eb9d65b-9a8a-432b-9fe0-30f987d096a4" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -87,8 +89,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6: 
   Stop
 
-# Program:
-# Output:
+# Program:<img width="858" height="746" alt="image" src="https://github.com/user-attachments/assets/ad3f6fcc-3cdd-46ce-a17d-6972d1ab4fa3" />
+
+# Output:<img width="814" height="652" alt="image" src="https://github.com/user-attachments/assets/0adb947b-393a-40b1-881a-ebeb3fee62e8" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -130,8 +134,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   Else, print that the number is not prime.
 ### Step 7:   
   Stop
-# Program:
+# Program:<img width="821" height="683" alt="image" src="https://github.com/user-attachments/assets/19dd3079-48d2-4569-b6c0-cef3f351552d" />
+
 # Output:
+<img width="804" height="322" alt="image" src="https://github.com/user-attachments/assets/8a9cd42d-4a6c-4b6d-9672-99ee50a4bb45" />
+<img width="810" height="318" alt="image" src="https://github.com/user-attachments/assets/35bdc3df-8e49-4595-baf9-20780d7a8ccf" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -178,8 +186,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Increase i and repeat Step 6.
 ### Step 8:   
   Stop
-# Program:
+# Program:<img width="808" height="612" alt="image" src="https://github.com/user-attachments/assets/a2452fa7-4637-403a-8f85-e00e0ef97e82" />
+
 # Output:
+<img width="819" height="437" alt="image" src="https://github.com/user-attachments/assets/e18d7413-ffc6-446c-9e08-e932ba49f3a0" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +243,9 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+Program:<img width="821" height="520" alt="image" src="https://github.com/user-attachments/assets/e665f7ad-bb58-41ce-9afb-14683b60142d" />
+Output:<img width="823" height="437" alt="image" src="https://github.com/user-attachments/assets/e058b311-0163-4476-acef-6dbe05fce12e" />
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
